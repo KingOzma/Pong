@@ -151,7 +151,7 @@ end
             player1Tally = player1Tally + 1
             sounds['tally']:play()
     
-        if player1Tally == 10 then
+        if player1Tally == 5 then
             winningPlayer = 1
             gameState = 'gameOver'
          else
