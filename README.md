@@ -1,6 +1,6 @@
 # Pong
 Pong
-The game Pong using Lua and Love2D
+The game Pong using Lua and Love2D - CS50<br>
 Sound Effects from bfxr.net
 
 What I learned:<br>
